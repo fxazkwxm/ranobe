@@ -31,21 +31,10 @@
 <h3 align="center"><samp>Support with a Star :star:!</samp></h3>
 
 ---------------
-### Features
-- Read Novels
-- No Ads, No Paywall
-- Unlimited novel browsing
-- Multi-lingual sources
-  - English
-  - Russian
-- Searching with keywords
-- Chapter Search and Sort
-- Continuous Vertical Reading
-- Light and Dark modes
-- Customize reading experience
-- Change font size
-- Change background and font color
-
+## 
+<p align="center">
+  <b>Supported Languages / 支持语言：</b> 🇺🇸 English | 🇨🇳 <a href="./README.zh.md">中文</a>
+</p>
 ----------------
 
 ### TODO
